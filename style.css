@@ -1,0 +1,36 @@
+#carouselExampleControls{
+    border-radius: 8px;
+    border : darkgray solid 3px;
+}
+
+
+
+
+#cardcontainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer{
+    margin:20px;
+    text-align: center;
+
+}
+
+#carouselExampleControls{
+    width: 80%;
+    display: block;
+    margin:20px auto;
+}
+
+#jumbotron{
+    width: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotroncontainer {
+    text-align: center;
+}
